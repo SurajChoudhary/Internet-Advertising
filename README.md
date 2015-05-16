@@ -19,5 +19,5 @@ arrival  from the publisher to the advertisers(bid request). Collecting the bids
 finding the highest bid and forwarding the selected advertisement to the publisher.
 
 The project is created using following design patterns in Java:
-Singleton pattern
+Singleton pattern,
 Factory Pattern
