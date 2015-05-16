@@ -1,4 +1,4 @@
-# InternetAdvertising
+# Internet Advertising
 Application Engineering and Development
 
 Internet Advertising is a Java swing application.
