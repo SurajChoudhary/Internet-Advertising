@@ -11,6 +11,8 @@ The object model consists of a hierarchy of System, Networks, Enterprises and Or
 consists of multiple networks and the network consists of different enterprises inside it. The 
 enterprises in turn have their own organizations for specific tasks.
 
+Note: The object model diagrams are placed under 'Repository Issues'.
+
 There are mainly three type of enterprises namely Advertisement Exchange(AdExchange), Advertiser and
 a Publisher. The publisher is the owner of the webpage. The advertiser is the one who wants to target
 their ads to users. The AdExchange is a bridge between publisher and advertiser. The adexchange is 
