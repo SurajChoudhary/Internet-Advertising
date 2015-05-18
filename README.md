@@ -20,6 +20,6 @@ responsible for tracking and maintaining users history over web, directing incom
 arrival  from the publisher to the advertisers(bid request). Collecting the bids from the advertisers,
 finding the highest bid and forwarding the selected advertisement to the publisher.
 
-The project is created using following design patterns in Java:
+The project makes use of following design patterns in Java:
 Singleton pattern,
 Factory Pattern
