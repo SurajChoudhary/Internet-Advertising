@@ -13,12 +13,13 @@ enterprises in turn have their own organizations for specific tasks.
 
 Note: The object model diagrams are placed under 'Repository Issues'.
 
-There are mainly three type of enterprises namely Advertisement Exchange(AdExchange), Advertiser and
-a Publisher. The publisher is the owner of the webpage. The advertiser is the one who wants to target
-their ads to users. The AdExchange is a bridge between publisher and advertiser. The adexchange is 
-responsible for tracking and maintaining users history over web, directing incoming request of user's
-arrival  from the publisher to the advertisers(bid request). Collecting the bids from the advertisers,
-finding the highest bid and forwarding the selected advertisement to the publisher.
+There are mainly three type of enterprises namely Advertisement Exchange(AdExchange), Advertiser
+(Demand Side Platforms) and a Publisher (Supply Side Platforms). The publisher is the owner of 
+the webpage. The advertiser is the one who wants to target their ads to users. The AdExchange is
+a bridge between publisher and advertiser. The adexchange is responsible for tracking and maintaining
+users history over web, directing incoming request of user's arrival  from the publisher to the
+advertisers(bid request). Collecting the bids from the advertisers, finding the highest bid and
+forwarding the selected advertisement to the publisher.
 
 The project makes use of following design patterns in Java:
 Singleton pattern,
